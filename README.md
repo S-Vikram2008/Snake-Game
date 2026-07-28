@@ -6,8 +6,8 @@ A classic Snake Game built using **Python** and the **Pyray** graphics library. 
 
 # 📸 Preview
 
-![Game Screenshot](screenshot1.png)
-![Game Screenshot](screenshot2.png)
+![Game Screenshot](screenshot1.jpg)
+![Game Screenshot](screenshot2.jpg)
 
 ---
 

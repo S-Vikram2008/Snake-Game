@@ -1,2 +1,1 @@
-# External Python package required for this project
 pyray

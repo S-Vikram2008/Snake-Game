@@ -41,8 +41,8 @@ Snake-Game/
 │
 ├── snakegame.py
 ├── README.md
-├── screenshot1.png
-├── screenshot1.png
+├── screenshot1.jpg
+├── screenshot1.jpg
 └── requirements.txt
 ```
 
